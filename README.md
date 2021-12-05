@@ -1,5 +1,5 @@
 # Lunar-Client-Lite-Halal-Edition
-Replace your "Resource" folder with this folder and make sure you make a backup of your old one.
+Replace your "Resources" folder with this folder and make sure you make a backup of your old one.
 Change language to spanish for better halal gaming experiment.
 
 

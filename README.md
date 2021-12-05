@@ -5,3 +5,5 @@ Change language to spanish for better halal gaming experiment.
 
 Download Lunar Client Lite https://github.com/Aetopia/Lunar-Client-Lite-Launcher/releases
 ![image](https://user-images.githubusercontent.com/87768156/144748824-92f78de0-c6da-41aa-88c7-ed93b1dfad94.png)
+![image](https://user-images.githubusercontent.com/87768156/144750112-b8e4ca85-34e1-448e-9075-ca03428a06f5.png)
+
